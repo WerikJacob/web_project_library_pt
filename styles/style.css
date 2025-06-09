@@ -231,7 +231,7 @@
   text-decoration: none;
 }
 
-.events_cover {
+.events__cover {
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 780px;
@@ -239,7 +239,7 @@
   position: relative;
 }
 
-.events_image {
+.events__image {
   max-width: 100%;
 }
 
